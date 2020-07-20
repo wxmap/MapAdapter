@@ -1,0 +1,36 @@
+2020-07-16 09:17:19.101  INFO 12308 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : Starting MapAdapterApplication on PC-202001211153 with PID 12308 (F:\jvy\work\stuydy\spring\MapAdapter\target\classes started by Administrator in F:\jvy\work\stuydy\spring\MapAdapter)
+2020-07-16 09:17:19.104  INFO 12308 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : The following profiles are active: dev
+2020-07-16 09:17:19.145  INFO 12308 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-16 09:17:19.145  INFO 12308 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-16 09:17:19.909  INFO 12308 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-16 09:17:19.915  INFO 12308 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-16 09:17:19.915  INFO 12308 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-16 09:17:19.976  INFO 12308 --- [restartedMain] o.a.c.c.C.[.[localhost].[/MapAdapter]    : Initializing Spring embedded WebApplicationContext
+2020-07-16 09:17:19.976  INFO 12308 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 831 ms
+2020-07-16 09:17:20.179  INFO 12308 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-16 09:17:20.229  INFO 12308 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-16 09:17:20.244  INFO 12308 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-16 09:17:20.316  INFO 12308 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/MapAdapter'
+2020-07-16 09:17:20.317  INFO 12308 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-16 09:17:20.329  INFO 12308 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-16 09:17:20.347  INFO 12308 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-16 09:17:20.403  INFO 12308 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : Started MapAdapterApplication in 1.539 seconds (JVM running for 2.339)
+2020-07-16 09:17:20.406 ERROR 12308 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : sssssss
+2020-07-16 09:17:55.861  INFO 17184 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : Starting MapAdapterApplication on PC-202001211153 with PID 17184 (F:\jvy\work\stuydy\spring\MapAdapter\target\classes started by Administrator in F:\jvy\work\stuydy\spring\MapAdapter)
+2020-07-16 09:17:55.863  INFO 17184 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : The following profiles are active: dev
+2020-07-16 09:17:55.899  INFO 17184 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-07-16 09:17:55.899  INFO 17184 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-07-16 09:17:56.685  INFO 17184 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-07-16 09:17:56.691  INFO 17184 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-16 09:17:56.691  INFO 17184 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-16 09:17:56.749  INFO 17184 --- [restartedMain] o.a.c.c.C.[.[localhost].[/MapAdapter]    : Initializing Spring embedded WebApplicationContext
+2020-07-16 09:17:56.750  INFO 17184 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 851 ms
+2020-07-16 09:17:56.966  INFO 17184 --- [restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-07-16 09:17:57.019  INFO 17184 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-16 09:17:57.036  INFO 17184 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-07-16 09:17:57.116  INFO 17184 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path '/MapAdapter'
+2020-07-16 09:17:57.117  INFO 17184 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-07-16 09:17:57.130  INFO 17184 --- [restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-07-16 09:17:57.149  INFO 17184 --- [restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-07-16 09:17:57.216  INFO 17184 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : Started MapAdapterApplication in 1.591 seconds (JVM running for 2.361)
+2020-07-16 09:17:57.218 ERROR 17184 --- [restartedMain] c.gis.MapAdapter.MapAdapterApplication   : sssssss
